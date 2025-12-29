@@ -1,0 +1,6 @@
+@SHOPQUICK.CATALOGAPI_HostAddress = http://localhost:5181
+
+GET {{SHOPQUICK.CATALOGAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
